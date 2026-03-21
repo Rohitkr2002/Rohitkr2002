@@ -37,7 +37,6 @@ I focus on writing structured code, solving problems logically, and continuously
 
 ## 💡 Developer Snapshot
 
-```python
 class Developer:
     def __init__(self):
         self.name = "Rohit Kumar Singh"
