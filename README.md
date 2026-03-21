@@ -16,23 +16,102 @@
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Rohitkr2002/Rohitkr2002/main/wave.gif" width="30px" /> <b>About Me</b>
-</div>
+## 👨‍💻 About Me - My Journey
 
-I'm a passionate **Python Developer** specializing in **Data Analysis**, **Database Management**, and **GUI Development**. I transform complex problems into elegant, efficient solutions.
+<table>
+<tr>
+<td width="50%">
+
+### 🎯 Who I Am
+
+I'm **Rohit Kumar Singh**, a passionate **Python Developer** based in **Bengaluru, India**. With a strong foundation in software development, I specialize in:
+
+- 🐍 **Python Development** - From scripting to full-fledged applications
+- 📊 **Data Analysis** - Transforming raw data into actionable insights
+- 🗄️ **Database Management** - Designing and optimizing SQL databases
+- 🎨 **GUI Development** - Building intuitive user interfaces with Tkinter
+
+### 💼 Professional Background
+
+- **Status:** Self-Employed | Technical Freelancer 🚀
+- **Location:** Bangalore, India 📍
+- **Experience:** Building production-grade applications
+- **Specialty:** Clean code, scalable solutions, problem-solving
+
+### 🧠 My Philosophy
+
+I believe in writing **clean, maintainable, and efficient code**. Every project is an opportunity to learn and create something meaningful. I'm passionate about solving complex problems with elegant solutions.
+
+</td>
+<td width="50%">
+
+### 🚀 What Drives Me
+
+**Passion Points:**
+- 💡 Building automation tools that save time
+- 📈 Creating data-driven solutions
+- 🔧 Developing robust backend systems
+- 🎯 Writing code that tells a story
+- 🌱 Continuous learning and improvement
+
+### 🎓 Learning & Growth
+
+- 📚 Actively exploring advanced Python patterns
+- 🤖 Interested in Machine Learning & AI applications
+- 🔍 Mastering data analysis techniques
+- 🏗️ Building scalable architecture
+- 🤝 Open to collaboration and mentoring
+
+### ❤️ Beyond Code
+
+- 🎵 Music enthusiast
+- 📖 Lifelong learner
+- 🌍 Problem solver at heart
+- 🤝 Team player and collaborator
+- 💪 Persistent and dedicated
+
+</td>
+</tr>
+</table>
+
+---
+
+### 💻 Developer Class - My Profile
 
 ```python
-class Developer:
+class DeveloperProfile:
     def __init__(self):
         self.name = "Rohit Kumar Singh"
         self.role = "Python Developer"
         self.location = "Bengaluru, India"
-        self.skills = ["Python", "SQL", "Pandas", "Data Analysis", "GUI Development"]
-        self.status = "Job Searching"
+        self.current_status = "Job Searching & Freelancing"
+        
+        self.technical_skills = {
+            "languages": ["Python", "JavaScript", "SQL"],
+            "databases": ["SQLite", "MySQL", "PostgreSQL"],
+            "frameworks": ["Tkinter", "Django"],
+            "tools": ["Git", "GitHub", "VS Code", "Jupyter", "Pandas", "NumPy"],
+            "specializations": [
+                "Data Analysis",
+                "GUI Development",
+                "Database Design",
+                "Automation"
+            ]
+        }
+        
+        self.soft_skills = [
+            "Problem Solving",
+            "Communication",
+            "Team Collaboration",
+            "Project Management",
+            "Continuous Learning"
+        ]
     
     def say_hello(self):
-        return "Let's build something amazing together!"
+        return "🚀 Let's build something amazing together!"
+    
+    def available_for(self):
+        return ["Full-time roles", "Freelance projects", "Collaborations"]
 ```
 
 ---
