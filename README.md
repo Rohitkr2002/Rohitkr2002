@@ -9,7 +9,7 @@
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rohit-kumar-singh-2516)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=About.me)](https://github.com/Rohitkr2002/My-profolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=About.me)]( https://rohitkr2002.github.io/My-profolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-100000?style=for-the-badge&logo=github)](https://github.com/Rohitkr2002)
 
 </div>
