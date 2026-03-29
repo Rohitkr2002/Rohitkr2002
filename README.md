@@ -76,6 +76,15 @@ I believe in writing **clean, maintainable, and efficient code**. Every project 
 
 ---
 
+## GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rohitkr2002&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="170" alt="Rohit's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitkr2002&layout=compact&theme=transparent&hide_border=true" height="170" alt="Top languages used by Rohit" />
+</p>
+
+---
+
 ### 💻 Developer Class - My Profile
 
 ```python
