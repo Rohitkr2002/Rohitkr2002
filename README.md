@@ -223,4 +223,39 @@ class DeveloperProfile:
 
 *Made with ❤️ by Rohit Kumar Singh*
 
+---
+
+## 📌 Current State & Status
+
+### 🔥 What I'm Currently Working On:
+- **Project Focus:** Naukri AI Agent & Blood Bank Management System
+- **Learning:** Advanced Python Patterns & AI/ML Integration
+- **Status:** 🟢 Open to Full-time Opportunities & Freelance Projects
+- **Availability:** Actively Job Searching | Available for Immediate Start
+
+### 📊 Real-time Progress:
+- ✅ **128 Commits** in March 2026
+- 🏗️ **6 Active Projects** (Python & Full-Stack)
+- 📈 **Continuously Learning** & Building New Skills
+- 🚀 **Ready to Impact** with my technical expertise
+
+### 🎯 My Current Tech Stack in Use:
+| **Category** | **Technologies** |
+|---|---|
+| **Backend** | Python, Django, FastAPI |
+| **Frontend** | JavaScript, HTML5, CSS3 |
+| **Database** | MySQL, PostgreSQL, SQLite |
+| **Data Tools** | Pandas, NumPy, Matplotlib |
+| **Desktop Apps** | Tkinter, PyQt |
+| **Version Control** | Git, GitHub |
+
+### 💼 Open For:
+- 💰 **Full-time Roles** - Python Developer, Data Analyst, Software Engineer
+- 🎓 **Freelance Projects** - Custom Development, Data Analysis, Automation
+- 🤝 **Collaborations** - Open Source, Portfolio Projects, Learning Together
+- 📚 **Mentoring** - Happy to help aspiring developers!
+
+### ⏰ Last Updated: March 29, 2026
+*This README is actively maintained and reflects my current journey!*
+
 </div>
