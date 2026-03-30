@@ -76,12 +76,13 @@ I believe in writing **clean, maintainable, and efficient code**. Every project 
 
 ---
 
-## GitHub Insights
+## What I'm Working On
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rohitkr2002&show_icons=true&theme=default&hide_border=true" height="170" alt="Rohit's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitkr2002&layout=compact&theme=default&hide_border=true" height="170" alt="Top languages used by Rohit" />
-</p>
+- Python-based projects focused on automation and real-world problem solving
+- SQL and Pandas for data cleaning, analysis, and reporting
+- GUI applications using Tkinter and database integration
+- Strengthening backend fundamentals and API-based development
+- Building a job-ready portfolio with practical software projects
 ---
 
 ### 💻 Developer Class - My Profile
