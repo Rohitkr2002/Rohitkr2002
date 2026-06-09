@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1e0a3c,100:4c1d95&height=240&section=header&text=Rohit%20Kumar%20Singh&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Analyst%20%E2%80%A2%20Content%20Creator%20%E2%80%A2%20Educator&descAlignY=58&descSize=20&descColor=c4b5fd" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1e0a3c,100:4c1d95&height=240&section=header&text=Rohit%20Kumar%20Singh&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Analyst%20%E2%80%A2%20Data%20Educator%20%E2%80%A2%20DATA%20DECODED&descAlignY=58&descSize=20&descColor=c4b5fd" />
 
-<!-- <a href="https://git.io/typing-svg">
+<a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=680&lines=📊+2M%2B+LinkedIn+Impressions+%26+Counting;🧠+Analysed+1M%2B+Records+in+Real+Projects;✍️+Creator+of+DATA+DECODED+Newsletter;🗄️+SQL+%7C+Python+%7C+Excel+%7C+Power+BI;🚀+Open+to+Full-Time+Data+Analyst+Roles" alt="Typing Animation" />
-</a> -->
+</a>
 
-<br/>
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/rohit-kumar-singh-25168a226/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -21,11 +21,11 @@
   <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=c4b5fd" />
 </a>
 
-<!-- <br/><br/>
+<br/><br/>
 
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRohitkr2002&count_bg=%237C3AED&title_bg=%230D1117&icon=eye&icon_color=%23C4B5FD&title=Profile+Views&edge_flat=false" />&nbsp;
 <img src="https://img.shields.io/github/followers/Rohitkr2002?label=Followers&style=flat-square&color=7C3AED&labelColor=0d1117&logo=github&logoColor=c4b5fd" />&nbsp;
-<img src="https://img.shields.io/github/stars/Rohitkr2002?label=Stars+Earned&style=flat-square&color=7C3AED&labelColor=0d1117&logo=github&logoColor=c4b5fd" /> -->
+<img src="https://img.shields.io/github/stars/Rohitkr2002?label=Stars+Earned&style=flat-square&color=7C3AED&labelColor=0d1117&logo=github&logoColor=c4b5fd" />
 
 </div>
 
@@ -36,7 +36,7 @@
 ```
 ╔══════════════════════════════════════════════════════════════════════════╗
 ║  👤  Rohit Kumar Singh                                                   ║
-║  🎯  Data Analyst · Content Creator · Data Educator                     ║
+║  🎯  Data Analyst · Data Educator · Newsletter Creator                     ║
 ║  📍  Bengaluru, India 🇮🇳                                                ║
 ║  🏢  Data Analyst Intern @ ElevanceSkills  |  Ex-Intern @ Bluestock     ║
 ║  📰  Founder — DATA DECODED Newsletter (LinkedIn)                       ║
@@ -45,7 +45,7 @@
 ╚══════════════════════════════════════════════════════════════════════════╝
 ```
 
-I'm a **Data Analyst and Content Creator** based in Bengaluru, building at the intersection of **data skills** and **data education**.
+I'm a **Data Analyst and Educator** based in Bengaluru, building at the intersection of **data skills** and **data education**.
 
 With real internship experience at **ElevanceSkills** and **Bluestock**, I've analysed over a million records, built dashboards, and solved business problems with SQL, Python, and Excel. Outside of work, I run **DATA DECODED** — a LinkedIn newsletter teaching the exact skills that get you hired as a data analyst.
 
@@ -160,7 +160,7 @@ class RohitKumarSingh:
 
     def __init__(self):
         self.name        = "Rohit Kumar Singh"
-        self.role        = "Data Analyst | Content Creator | Educator"
+        self.role        = "Data Analyst | Data Educator | Newsletter Creator"
         self.location    = "Bengaluru, India 🇮🇳"
         self.newsletter  = "DATA DECODED"
         self.tagline     = "One concept. One tool. One step closer to data mastery."
@@ -194,7 +194,7 @@ class RohitKumarSingh:
 
         self.open_to = [
             "Full-Time Data Analyst Roles 📊",
-            "Data Content & Brand Collaborations ✍️",
+            "Newsletter & Education Collaborations ✍️",
             "Freelance Analytics Projects 💼",
         ]
 
