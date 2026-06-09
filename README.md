@@ -322,6 +322,13 @@ class RohitKumarSingh:
   <img src="https://img.shields.io/badge/Follow_on_GitHub-0d1117?style=for-the-badge&logo=github&logoColor=c4b5fd" />
 </a>
 
+---
+
+<!-- GitHub Search Keywords -->
+### 🔖 Keywords
+
+`data-analyst` `sql` `python` `power-bi` `excel` `pandas` `data-analysis` `data-visualization` `hr-dashboard` `business-intelligence` `dax` `power-query` `data-educator` `rohit-kumar-singh` `bengaluru` `data-decoded` `portfolio` `numpy` `matplotlib` `mysql` `postgresql` `data-analyst-india`
+
 <br/><br/>
 
 > 💬 *"The best analysts don't just answer questions — they ask better ones."*
