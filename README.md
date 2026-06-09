@@ -1,47 +1,51 @@
 <div align="center">
 
-# Rohit Kumar Singh
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1d4ed8&height=220&section=header&text=Rohit%20Kumar%20Singh&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Analyst%20%7C%20Web%20Developer%20%7C%20SQL%20%7C%20Python%20%7C%20Power%20BI&descAlignY=58&descSize=16" />
 
-### Aspiring Data Analyst | Web Developer | SQL • Python • Power BI
+# 👋 Hello, I'm Rohit Kumar Singh
+
+### Aspiring Data Analyst • Web Developer • Problem Solver
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0E76A8&center=true&vCenter=true&width=650&lines=Aspiring+Data+Analyst;Web+Developer;SQL+%7C+Python+%7C+Power+BI;Building+Practical+Projects+for+Real+Problems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Turning+data+into+insights;Building+clean+and+practical+projects;SQL+%7C+Python+%7C+Power+BI+%7C+JavaScript;Open+to+Entry-Level+Roles+and+Collaborations" alt="Typing SVG" />
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-kumar-singh-25168a226/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rohitkr2002.github.io/My-profolio/)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rohitkr2002)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-ef4444?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rohitkr2002.github.io/My-profolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rohitkr2002)
 
-<img src="https://komarev.com/ghpvc/?username=Rohitkr2002&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=Rohitkr2002&label=Profile%20Views&color=2563eb&style=flat" alt="profile views" />
 
 </div>
 
 ---
 
-## About Me
+## 🚀 About Me
 
-Hi, I'm **Rohit Kumar Singh**, an aspiring Data Analyst and Web Developer based in Bengaluru, India.  
-I enjoy building practical projects using SQL, Python, Power BI, HTML, CSS, and JavaScript.  
-My focus is on turning raw data into useful insights and creating clean, user-friendly web solutions.  
-I am currently open to entry-level opportunities, internships, freelance work, and project collaborations.
-
----
-
-## What I’m Focused On
-
-- Building job-ready data analysis and web development projects
-- Improving SQL, Python, Pandas, and Power BI skills
-- Creating dashboards, reports, and portfolio projects
-- Strengthening frontend and backend fundamentals
-- Learning by building real-world applications
+I’m **Rohit Kumar Singh**, an aspiring **Data Analyst** and **Web Developer** based in **Bengaluru, India**.  
+I enjoy building practical projects using **SQL, Python, Power BI, HTML, CSS, and JavaScript**.  
+My goal is to solve real-world problems through data analysis, dashboards, automation, and user-friendly applications.  
+I’m currently open to **entry-level roles**, **internships**, **freelance opportunities**, and **collaborative projects**.
 
 ---
 
-## Tech Stack
+## 💼 Professional Snapshot
 
-### Data Analysis
+- 🎓 2025 graduate / fresher focused on building a strong tech career
+- 📊 Interested in Data Analysis, Reporting, Dashboards, and Business Insights
+- 💻 Building web projects and software solutions with clean structure
+- 🧠 Continuously learning advanced SQL, Python, and real-world analytics workflows
+- 🎯 Looking for opportunities where I can grow, contribute, and create impact
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Data Analysis & BI
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
@@ -58,63 +62,125 @@ I am currently open to entry-level opportunities, internships, freelance work, a
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
----
-
-## Featured Projects
-
-### [Contact Book App](https://github.com/Rohitkr2002/Contact-Book-App-in-Python)
-A Python-based contact management application with a simple interface for storing and managing user contacts.
-
-### [Restaurant Menu Ordering System](https://github.com/Rohitkr2002/Restaurant-Menu-Ordering-System-in-Python)
-A menu-based ordering project that demonstrates Python logic, structure, and interactive workflow design.
-
-### [Student Grade Management System](https://github.com/Rohitkr2002/Student-Grade-Management-using-Python)
-A project for managing and analyzing student performance with structured Python-based logic.
-
-### [Blood Bank Management System](https://github.com/Rohitkr2002/Blood-Bank-Management-System)
-A practical management system project focused on records, operations, and healthcare-related workflows.
-
-### [Naukri AI Agent](https://github.com/Rohitkr2002/Naukri.com-AI-Agent-)
-A project related to job workflow automation and smarter interaction with recruitment platforms.
-
-### [Portfolio Website](https://github.com/Rohitkr2002/My-profolio)
-My personal portfolio website built using web technologies to showcase my work and skills.
+</div>
 
 ---
 
-## GitHub Stats
+## 📌 What I'm Working On
+
+- Building portfolio-ready data analysis projects with SQL, Python, and Power BI
+- Creating practical web development projects with HTML, CSS, and JavaScript
+- Improving data cleaning, dashboard design, and reporting skills
+- Exploring automation, APIs, and project deployment workflows
+- Strengthening problem-solving through real-world project building
+
+---
+
+## 🌟 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 📘 Contact Book App
+A Python project for managing contacts with a simple and user-friendly interface.  
+**Tech:** Python, Tkinter, SQLite  
+🔗 [View Project](https://github.com/Rohitkr2002/Contact-Book-App-in-Python)
+
+</td>
+<td width="50%">
+
+### 🍽️ Restaurant Menu Ordering System
+A menu-based ordering system focused on logic building and workflow handling.  
+**Tech:** Python, GUI, Database  
+🔗 [View Project](https://github.com/Rohitkr2002/Restaurant-Menu-Ordering-System-in-Python)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🎓 Student Grade Management
+A project to manage student data and track academic performance efficiently.  
+**Tech:** Python, Data Handling  
+🔗 [View Project](https://github.com/Rohitkr2002/Student-Grade-Management-using-Python)
+
+</td>
+<td width="50%">
+
+### 🩸 Blood Bank Management System
+A practical management system focused on healthcare-related record handling and operations.  
+**Tech:** Python, SQL, Tkinter  
+🔗 [View Project](https://github.com/Rohitkr2002/Blood-Bank-Management-System)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🤖 Naukri AI Agent
+A project built around job workflow automation and productivity-focused development ideas.  
+**Tech:** JavaScript, Automation  
+🔗 [View Project](https://github.com/Rohitkr2002/Naukri.com-AI-Agent-)
+
+</td>
+<td width="50%">
+
+### 🌐 Portfolio Website
+My personal portfolio website created to showcase projects, skills, and career goals.  
+**Tech:** HTML, CSS, JavaScript  
+🔗 [View Project](https://github.com/Rohitkr2002/My-profolio)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rohitkr2002&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitkr2002&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rohitkr2002&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitkr2002&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohitkr2002&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
 
 </div>
 
 ---
 
-## Career Goals
+## 🎯 Career Goals
 
-- Start my career in Data Analysis or Web Development
-- Work on real business problems using data and technology
-- Contribute to practical, meaningful projects
-- Continuously improve technical and communication skills
+- Start my professional journey as a Data Analyst or Web Developer
+- Work on projects that create measurable business or user value
+- Build strong expertise in SQL, Python, Power BI, and frontend development
+- Contribute to meaningful teams, products, and open-source learning
 
 ---
 
-## Connect With Me
+## 🤝 Let's Connect
 
-- LinkedIn: [Rohit Kumar Singh](https://www.linkedin.com/in/rohit-kumar-singh-25168a226/)
-- Portfolio: [My Portfolio Website](https://rohitkr2002.github.io/My-profolio/)
-- GitHub: [Rohitkr2002](https://github.com/Rohitkr2002)
-- Email: your-email@example.com
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rohit%20Kumar%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-kumar-singh-25168a226/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-e11d48?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rohitkr2002.github.io/My-profolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-Rohitkr2002-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rohitkr2002)
+
+</div>
 
 ---
 
 <div align="center">
 
-### Thanks for visiting my profile!
+### ⭐ Thanks for visiting my profile
 
-“Keep building, keep learning, and let your work speak for itself.”
+**“I believe in learning by building, improving by practicing, and growing by staying consistent.”**
 
 </div>
