@@ -21,11 +21,11 @@
   <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=c4b5fd" />
 </a>
 
-<br/><br/>
+<!-- <br/><br/>
 
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRohitkr2002&count_bg=%237C3AED&title_bg=%230D1117&icon=eye&icon_color=%23C4B5FD&title=Profile+Views&edge_flat=false" />&nbsp;
 <img src="https://img.shields.io/github/followers/Rohitkr2002?label=Followers&style=flat-square&color=7C3AED&labelColor=0d1117&logo=github&logoColor=c4b5fd" />&nbsp;
-<img src="https://img.shields.io/github/stars/Rohitkr2002?label=Stars+Earned&style=flat-square&color=7C3AED&labelColor=0d1117&logo=github&logoColor=c4b5fd" />
+<img src="https://img.shields.io/github/stars/Rohitkr2002?label=Stars+Earned&style=flat-square&color=7C3AED&labelColor=0d1117&logo=github&logoColor=c4b5fd" /> -->
 
 </div>
 
