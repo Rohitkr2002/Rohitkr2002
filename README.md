@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1e0a3c,100:4c1d95&height=240&section=header&text=Rohit%20Kumar%20Singh&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Analyst%20%E2%80%A2%20Content%20Creator%20%E2%80%A2%20Educator&descAlignY=58&descSize=20&descColor=c4b5fd" />
 
-<a href="https://git.io/typing-svg">
+<!-- <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=680&lines=📊+2M%2B+LinkedIn+Impressions+%26+Counting;🧠+Analysed+1M%2B+Records+in+Real+Projects;✍️+Creator+of+DATA+DECODED+Newsletter;🗄️+SQL+%7C+Python+%7C+Excel+%7C+Power+BI;🚀+Open+to+Full-Time+Data+Analyst+Roles" alt="Typing Animation" />
-</a>
+</a> -->
 
 <br/><br/>
 
