@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=680&lines=📊+2M%2B+LinkedIn+Impressions+%26+Counting;🧠+Analysed+1M%2B+Records+in+Real+Projects;✍️+Creator+of+DATA+DECODED+Newsletter;🗄️+SQL+%7C+Python+%7C+Excel+%7C+Power+BI;🚀+Open+to+Full-Time+Data+Analyst+Roles" alt="Typing Animation" />
 </a> -->
 
-<br/><br/>
+<br/>
 
 <a href="https://www.linkedin.com/in/rohit-kumar-singh-25168a226/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
