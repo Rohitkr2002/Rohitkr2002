@@ -246,10 +246,25 @@ class RohitKumarSingh:
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements & Milestones
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Rohitkr2002&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
+
+![2M Impressions](https://img.shields.io/badge/🧠_LinkedIn_Impressions-2%2C000%2C000%2B-a78bfa?style=for-the-badge&labelColor=0d1117)
+![1M Records](https://img.shields.io/badge/📊_Records_Analysed-1%2C000%2C000%2B-a78bfa?style=for-the-badge&labelColor=0d1117)
+
+![ElevanceSkills](https://img.shields.io/badge/🏢_Intern-ElevanceSkills-a78bfa?style=for-the-badge&labelColor=0d1117)
+![Bluestock](https://img.shields.io/badge/🏢_Ex--Intern-Bluestock-a78bfa?style=for-the-badge&labelColor=0d1117)
+![Newsletter](https://img.shields.io/badge/📰_Newsletter-DATA_DECODED-a78bfa?style=for-the-badge&labelColor=0d1117)
+
+![SQL](https://img.shields.io/badge/🗄️_SQL-Advanced-a78bfa?style=for-the-badge&labelColor=0d1117)
+![Python](https://img.shields.io/badge/🐍_Python-Pandas_%26_EDA-a78bfa?style=for-the-badge&labelColor=0d1117)
+![Power BI](https://img.shields.io/badge/📉_Power_BI-Dashboards-a78bfa?style=for-the-badge&labelColor=0d1117)
+![Excel](https://img.shields.io/badge/📊_Excel-Power_Query-a78bfa?style=for-the-badge&labelColor=0d1117)
+
+![Projects](https://img.shields.io/badge/💻_Projects-6%2B_Built-a78bfa?style=for-the-badge&labelColor=0d1117)
+![Open to Work](https://img.shields.io/badge/🟢_Status-Open_to_Work-22c55e?style=for-the-badge&labelColor=0d1117)
+
 </div>
 
 ---
