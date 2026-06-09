@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1e0a3c,100:4c1d95&height=240&section=header&text=Rohit%20Kumar%20Singh&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Analyst%20%E2%80%A2%20Python%20EDeveloper%20%E2%80%A2%20DATA%20DECODED&descAlignY=58&descSize=20&descColor=c4b5fd" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1e0a3c,100:4c1d95&height=240&section=header&text=Rohit%20Kumar%20Singh&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Analyst%20%E2%80%A2%20Python%20Developer%20%E2%80%A2%20DATA%20DECODED&descAlignY=58&descSize=20&descColor=c4b5fd" />
 
-<br/
+<br/>
 
 <a href="https://www.linkedin.com/in/rohit-kumar-singh-25168a226/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
