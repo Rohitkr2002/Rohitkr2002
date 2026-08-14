@@ -24,15 +24,15 @@
 ## 🧠 About Me
 
 ```
-╔══════════════════════════════════════════════════════════════════════════╗
-║  👤  Rohit Kumar Singh                                                   ║
-║  🎯  Data Analyst · Data Educator · Newsletter Creator                     ║
-║  📍  Bengaluru, India 🇮🇳                                                ║
+╔═════════════════════════════════════════════════════════════════════════╗
+║  👤  Rohit Kumar Singh                                                  ║
+║  🎯  Data Analyst · Data Educator · Newsletter Creator                  ║
+║  📍  Bengaluru, India 🇮🇳                                                ║ 
 ║  🏢  Data Analyst Intern @ ElevanceSkills  |  Ex-Intern @ Bluestock     ║
 ║  📰  Founder — DATA DECODED Newsletter (LinkedIn)                       ║
 ║  📊  2,000,000+ Impressions  ·  1,000,000+ Records Analysed             ║
-║  🟢  Actively Seeking Full-Time Data Analyst Roles                      ║
-╚══════════════════════════════════════════════════════════════════════════╝
+║  🟢  Actively Seeking Full-Time Data Analyst Roles                      ║ 
+╚═════════════════════════════════════════════════════════════════════════╝
 ```
 
 I'm a **Data Analyst and Educator** based in Bengaluru, building at the intersection of **data skills** and **data education**.
